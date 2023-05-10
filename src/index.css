@@ -50,25 +50,6 @@ input{
     /* font-family:'Courier New', Courier, monospace; */
 }
 
-.btn{
-    min-height:40px;
-    width:40px;
-    border-radius:50%;
-    border-color: transparent;
-    background-color:#8566aa;
-    color:#fff;
-    font-size:40px;
-    border:none;
-    outline:none;
-    margin-left: 10px;
-    box-shadow:5px 5px 15px -5px rgba(0,0,0,0.3);
-
-}
-
-.btn:hover{
-    background-color: #20bf6b;
-}
-
 ol{
     margin-top:30px; 
 }
